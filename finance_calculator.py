@@ -26,7 +26,7 @@ if calculator_type.lower() == "investment":
         compound_interest = round(deposit_amount * math.pow((1 +interest_rate/100),number_years))
         print(f"The total future value of your investment if compound interest is applied is: ${compound_interest}")
 
-#if user selects a bond, request user to input the different data required to calculate the interest on their bond
+# if user selects a bond, request user to input the different data required to calculate the interest on their bond
 elif calculator_type.lower() == "bond":
     pv_house = float(input("Enter the present value of the house: "))
     interest_rate = float(input("Enter the annual interest rate as a percentage (without including the \"%\" symbol): "))
