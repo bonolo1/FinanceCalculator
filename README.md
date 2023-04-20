@@ -1,4 +1,4 @@
-# Finance Calculator Project
+# Finance Calculator
 
 ## Table of Contents
 
