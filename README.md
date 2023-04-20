@@ -141,6 +141,6 @@ The following is the list of invalid input situations with the associated screen
 
 This project has been developed by Bonolo Ramasedi.
 
-# License <a name="license"><a> 
+## License <a name="license"><a> 
   
 This project is not licensed and is intended for display purposes only. All rights reserved. No usage, distribution, or modification rights are granted.
